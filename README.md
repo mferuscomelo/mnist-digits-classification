@@ -5,5 +5,7 @@ Created as an Applied Deep Learning Trainee as part of the MIT FutureMakers prog
 
 Model accuracy: 99.27%
 
+You can now draw your own numbers (as many digits as you want) and the model will identify them, all without having to leave the notebook.
+
 ## Dataset
 The dataset can be found here: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/).
