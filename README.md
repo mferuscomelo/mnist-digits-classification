@@ -1,7 +1,7 @@
 # MNIST Digits Classification
 
 ## Description
-Created as an Applied Deep Learning Trainee as part of the MIT FutureMakers program, a collaboration between the MIT RAISE initiative and SureStart. More information on my work during the program can be found here: [https://github.com/mferuscomelo/mit-futuremakers](https://github.com/mferuscomelo/mit-futuremakers)
+Created as an Applied Deep Learning Trainee as part of the MIT FutureMakers program, a part-time 6-week AI learning program, developed through a collaboration between [SureStart](https://mysurestart.com/) and the [MIT RAISE (Responsible AI for Social Empowerment and Education) Initiative](https://raise.mit.edu/). More information on my work during the program can be found here: [https://github.com/mferuscomelo/mit-futuremakers](https://github.com/mferuscomelo/mit-futuremakers)
 
 Model accuracy: 99.27%
 
